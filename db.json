@@ -2,11 +2,11 @@
   "jobs": [
     {
       "id": 1,
-      "title": "JavaScript Developer for Mobile App Project",
-      "description": "We are in need of a JavaScript Developer to contribute to our mobile app project. Your responsibilities include developing interactive features, collaborating with designers, and optimizing app performance.",
-      "responsibilities": ["Develop interactive features for mobile app", "Collaborate with UX/UI designers", "Optimize app performance for various devices"],
-      "requirements": ["Proven experience as a JavaScript developer", "Strong knowledge of JavaScript and mobile app development", "Experience with PHP is a plus"],
-      "badges": ["js3", "php1"],
+      "title": "PHP Web Developer for Portfolio Project",
+      "description": "We are looking for a PHP Web Developer to work on a portfolio project. Your responsibilities include building dynamic web pages using PHP, collaborating with designers, and ensuring a responsive design.",
+      "responsibilities": ["Build dynamic web pages using PHP", "Collaborate with UX/UI designers", "Ensure responsive design for various devices"],
+      "requirements": ["Basic knowledge of PHP"],
+      "badges": ["php1"],
       "details": {
         "creationDate": "2023-10-26",
         "recruitmentPeriod": "22 days",
@@ -15,17 +15,17 @@
         "recruitmentQuota": 3,
         "jobType": "Freelance",
         "location": "Remote",
-        "salary": "$600",
+        "salary": "$400",
         "workCategory": "Project-Based"
       }
-    },    
+    },
     {
       "id": 2,
-      "title": "Python Backend Developer for Analytics Project",
-      "description": "Join our team as a Python Backend Developer to work on an analytics project. Your role includes developing backend logic, handling data integration, and ensuring data accuracy. MySQL knowledge is essential.",
-      "responsibilities": ["Develop backend logic for analytics project", "Integrate data from various sources", "Ensure data accuracy and reliability"],
-      "requirements": ["Proven experience as a Python developer", "Strong knowledge of Python and MySQL", "Experience with data analytics is a plus"],
-      "badges": ["py3", "sql2"],
+      "title": "HTML Front-End Developer for Blog Project",
+      "description": "Join our team as an HTML Front-End Developer to work on a blog project. Your responsibilities include creating engaging user interfaces with HTML, handling content integration, and ensuring a visually appealing design.",
+      "responsibilities": ["Create engaging user interfaces with HTML", "Integrate content for the blog project", "Ensure visually appealing design"],
+      "requirements": ["Basic knowledge of HTML"],
+      "badges": ["html1"],
       "details": {
         "creationDate": "2023-11-01",
         "recruitmentPeriod": "18 days",
@@ -33,17 +33,17 @@
         "projectDuration": "35 days",
         "recruitmentQuota": 5,
         "location": "Remote",
-        "payment": "$700",
+        "payment": "$500",
         "workCategory": "Project-Based"
       }
-    },    
+    },
     {
       "id": 3,
-      "title": "PHP Developer for E-commerce Platform",
-      "description": "We are seeking a PHP Developer to work on our e-commerce platform. The project involves enhancing features, optimizing performance, and ensuring smooth functionality. Experience with JavaScript and MySQL is a plus.",
-      "responsibilities": ["Develop and maintain PHP-based e-commerce platform", "Collaborate with front-end developers", "Optimize application performance"],
-      "requirements": ["Proven experience as a PHP developer", "Strong knowledge of PHP and MySQL", "Experience with JavaScript is a plus"],
-      "badges": ["php3", "js1", "sql2"],
+      "title": "JavaScript Developer for Interactive Quiz Project",
+      "description": "We are seeking a JavaScript Developer to work on an interactive quiz project. Your responsibilities include developing interactive features with JavaScript, collaborating with UX/UI designers, and optimizing quiz performance.",
+      "responsibilities": ["Develop interactive features with JavaScript", "Collaborate with UX/UI designers", "Optimize quiz performance for various devices"],
+      "requirements": ["Basic knowledge of JavaScript"],
+      "badges": ["js1"],
       "details": {
         "creationDate": "2023-10-31",
         "recruitmentPeriod": "20 days",
@@ -51,17 +51,17 @@
         "projectDuration": "56 Days",
         "recruitmentQuota": 5,
         "location": "Remote",
-        "payment": "$800",
+        "payment": "$450",
         "workCategory": "Project-Based"
       }
     },
     {
       "id": 4,
-      "title": "MySQL Database Engineer for Social Media Platform",
-      "description": "Join our team as a MySQL Database Engineer to work on a social media platform. Your role includes designing, implementing, and optimizing database systems. Knowledge of PHP and Python is advantageous.",
-      "responsibilities": ["Design and implement database systems", "Optimize database performance", "Collaborate with developers on data integration"],
-      "requirements": ["Proven experience as a database engineer", "Strong knowledge of MySQL and database architecture", "Experience with PHP and Python is a plus"],
-      "badges": ["sql3", "php2", "py1"],
+      "title": "MySQL Database Engineer for Blog Database Project",
+      "description": "Join our team as a MySQL Database Engineer to work on a blog database project. Your responsibilities include designing, implementing, and optimizing database systems with MySQL for the blog platform.",
+      "responsibilities": ["Design and implement database systems with MySQL", "Optimize database performance", "Collaborate with developers on data integration"],
+      "requirements": ["Basic knowledge of MySQL"],
+      "badges": ["sql1"],
       "details": {
         "creationDate": "2023-11-05",
         "recruitmentPeriod": "15 days",
@@ -69,10 +69,9 @@
         "projectDuration": "18 Days",
         "recruitmentQuota": 2,
         "location": "Remote",
-        "payment": "$200",
+        "payment": "$350",
         "workCategory": "Project-Based"
       }
     }
-                
   ]
 }
