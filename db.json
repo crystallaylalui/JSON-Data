@@ -7,6 +7,7 @@
       "responsibilities": ["Build dynamic web pages using PHP", "Collaborate with UX/UI designers", "Ensure responsive design for various devices"],
       "requirements": ["Basic knowledge of PHP"],
       "badges": ["php1"],
+      "job_badges": [9],
       "details": {
         "creationDate": "2023-10-26",
         "recruitmentPeriod": "22 days",
@@ -26,6 +27,7 @@
       "responsibilities": ["Create engaging user interfaces with HTML", "Integrate content for the blog project", "Ensure visually appealing design"],
       "requirements": ["Basic knowledge of HTML"],
       "badges": ["html1"],
+      "job_badges": [17],
       "details": {
         "creationDate": "2023-11-01",
         "recruitmentPeriod": "18 days",
@@ -44,6 +46,7 @@
       "responsibilities": ["Develop interactive features with JavaScript", "Collaborate with UX/UI designers", "Optimize quiz performance for various devices"],
       "requirements": ["Basic knowledge of JavaScript"],
       "badges": ["js1"],
+      "job_badges": [5],
       "details": {
         "creationDate": "2023-10-31",
         "recruitmentPeriod": "20 days",
@@ -62,6 +65,7 @@
       "responsibilities": ["Design and implement database systems with MySQL", "Optimize database performance", "Collaborate with developers on data integration"],
       "requirements": ["Basic knowledge of MySQL"],
       "badges": ["sql1"],
+      "job_badges": [13],
       "details": {
         "creationDate": "2023-11-05",
         "recruitmentPeriod": "15 days",
