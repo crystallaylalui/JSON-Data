@@ -34,8 +34,9 @@
         "hiringManager": "Sarah White",
         "projectDuration": "35 days",
         "recruitmentQuota": 5,
+        "jobType": "Freelance",
         "location": "Remote",
-        "payment": "$500",
+        "salary": "$500",
         "workCategory": "Project-Based"
       }
     },
@@ -53,8 +54,9 @@
         "hiringManager": "David Brown",
         "projectDuration": "56 Days",
         "recruitmentQuota": 5,
+        "jobType": "Freelance",
         "location": "Remote",
-        "payment": "$450",
+        "salary": "$450",
         "workCategory": "Project-Based"
       }
     },
@@ -72,8 +74,9 @@
         "hiringManager": "Alex Johnson",
         "projectDuration": "18 Days",
         "recruitmentQuota": 2,
+        "jobType": "Freelance",
         "location": "Remote",
-        "payment": "$350",
+        "salary": "$350",
         "workCategory": "Project-Based"
       }
     }
